@@ -1,6 +1,6 @@
 # The Whispering Willows
 
-A small (50'x50') Shadowed Sinkhole of evil guarded by a stand of Three (3) _Galdrtré_ in the guise of Weeping Willows standing over a **Stagnant Pond.** Such an act of cruelty has befouled the spring, leaving it stagnant as though her corpse still lies within. Near the pond, to the north-east 30', is a **Coyote Den** which houses Nine (9) Zombified Coyotes (stats as _Zombified Jackals_). Any who wander too close to the pond are _Enthralled_ by the Galdrtré, and made to drown themselves in the pond. (This was the fate of the Coyotes when they made their den too close).
+A small (50'x50') Shadowed Sinkhole of evil guarded by a stand of Three (3) _Galdrtré_ in the guise of Weeping Willows standing over a **Stagnant Pond.** Near the pond, to the north-east 30', is a **Coyote Den** which houses Nine (9) Zombified Coyotes (stats as _Zombified Jackals_). Any who wander too close to the pond are _Enthralled_ by the Galdrtré, and made to drown themselves in the pond. (This was the fate of the Coyotes when they made their den too close).
 
 ## Stagnant Pond
 
@@ -19,7 +19,7 @@ This is a rank, reedy pool of scummy water, 30' deep. However, it once fed a sma
 
 Bloated and rotten past recognition. Dressed as a noble maiden.
 
-(The pond used to be a clear freshwater spring that was the favored bathing spot of the fair daughter of a minor noble. The girl was murdered by a lover, and left in the body of the pond.)
+(The pond used to be a clear freshwater spring that was the favored bathing spot of the fair daughter of a minor noble. The girl was murdered by a lover, and left in the body of the pond. Such an act of cruelty has befouled the spring, leaving it stagnant as though her corpse still lies within.)
 
 ## Coyote Den
 
