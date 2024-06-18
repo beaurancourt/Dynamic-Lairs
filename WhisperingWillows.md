@@ -1,0 +1,14 @@
+# The Whispering Willows - Galdrtré Lair
+A small (50'x50') Shadowed Sinkhole of evil guarded by a stand of Three (3) *Galdrtré* in the guise of Weeping Willows standing over a **Stagnant Pond.** The pond used to be a clear freshwater spring that was the favored bathing spot of the fair daughter of a minor noble. The girl was murdered by a lover, and left in the body of the pond. Such an act of cruelty has befouled the spring, leaving it stagnant as though her corpse still lies within. Near the pond, to the north-east 30', is a **Coyote Den** which houses Nine (9) Zombified Coyotes (stats as *Zombified Jackals*). Any who wander too close to the pond are *Enthralled* by the Galdrtré, and made to drown themselvs in the pond. (This was the fate of the Coyotes when they made their den too close).
+## Stagnant Pond
+This is a rank, reedy pool of scummy water, 30' deep. However, it once fed a small creek, and it's dry bed is still visible. At the bottom of the pool are the following treasures. Tokens of a bygone maiden who once admired the spring's tranquility.
+### Treasrue
+- One (1) Facet Cut Imperial Topaz: 4000 GP
+- Three (3) AlenxdritesL 500 GP each
+- One (1) Wrought Silver Ring : 700 GP
+- Sword +1, Deathless
+## Coyote Den
+This small den, dug into a hillock, is the home of a pack of coyotes who were unfortunate enough to try to drink from the **Stagnant Pond.** Very little loot resides here, but little is not none. In the corned is a body, mostly bone, wearing a tatered Mage's cassock.
+### Treasure
+- Three (3) Beast Bones: 34 GP each
+- Scroll of Magic Warding (on the body)
