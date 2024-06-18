@@ -7,7 +7,11 @@ Community Sourced Dynamic Lairs for ACKs and other Old School RPGs
 If you already have material that does not follow the below conventions and converting
 them would be too troublesome, please upload them anyway and someone will convert them for you!
 
-If uploading them is also a non-starter, feel free to email me at `beau.rancourt@proton.me` and I'll sort it out.
+If uploading them is also a non-starter, feel free to ether open up an 
+[issue](https://github.com/beaurancourt/Dynamic-Lairs/issues) or 
+email me at `beau.rancourt@proton.me` and I'll sort it out.
+
+I'll take whatever you have - pictures of notebooks, links to google doc, etc.
 
 Otherwise! [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the repo and open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) following the structure and style conventions.
 
